@@ -8,6 +8,6 @@ CreateList    : This test adds a new list
 CreateListVal : This test tries to add a duplicate list and verifies if a validation message comes up.
 RenAdd        : This test renames the list as 'updated'
 AddPrspct     : This adds a new prospect and links it to the newly created list
-SendEmail     :	This creates and saves an email
+SendEmail     :	This creates and saves an email and logs out the user.
 
 
